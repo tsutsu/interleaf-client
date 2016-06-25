@@ -1,0 +1,27 @@
+{
+  "name": "Interleaf",
+  "version": "0.1.0",
+  "description": "A better feed",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsutsu/interleaf-client.git"
+  },
+  "keywords": [],
+  "author": "Levi Aul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsutsu/interleaf-client/issues"
+  },
+  "homepage": "https://github.com/tsutsu/interleaf-client#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0",
+    "electron-rebuild": "^1.1.5"
+  },
+  "dependencies": {
+    "sqlite3": "^3.1.4"
+  }
+}
